@@ -2,3 +2,8 @@
 app/__pycache__/
 app/io/__pycache__/
 data/
+tests/__pycache__/
+tests/test_io/__pycache__/
+tests/test_io/sample.txt
+tests/test_io/special_file.txt
+tests/test_io/void.txt
