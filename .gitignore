@@ -1,1 +1,4 @@
 .idea/
+app/__pycache__/
+app/io/__pycache__/
+data/
